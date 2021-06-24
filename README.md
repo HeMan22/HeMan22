@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning React JS/Node JS Spring Boot.
 - 👯 I’m looking to collaborate on Fullstack projects
 - 🤔 I’m looking for help with fullstack projects
-- 💬 Ask me about Data Structure, Java, Design Patterns, Computer Gaming
+- 💬 Ask me about Data Structure, Java, Design Patterns, React.js Computer Gaming
 - 📫 How to reach me: ...
 - ⚡ Fun fact: Wanted to be a lawyer but did engineering and now loving it.
 
