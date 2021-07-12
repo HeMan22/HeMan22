@@ -6,10 +6,10 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Identity Access & Management
-- 🌱 I’m currently learning React JS/Node JS Spring Boot.
+- 🌱 I’m currently learning React JS Spring Boot in TDD methodology.
 - 👯 I’m looking to collaborate on Fullstack projects
 - 🤔 I’m looking for help with fullstack projects
-- 💬 Ask me about Data Structure, Java, Design Patterns, React.js Computer Gaming
+- 💬 Ask me about Data Structure, Java, Design Patterns, React.js, MicroServices, TDD & Computer Gaming
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/tripathi-himanshu/)
 - ⚡ Fun fact: Wanted to be a lawyer but did engineering and now loving it.
 
