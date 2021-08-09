@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Identity Access & Management
-- 🌱 I’m currently learning React JS Spring Boot in TDD methodology.
+- 🔭 I’m currently working on Identity Access & Management 
+- 🌱 I’m currently learning React JS Spring Boot microservices in TDD methodology.
 - 👯 I’m looking to collaborate on Fullstack projects
 - 🤔 I’m looking for help with fullstack projects
 - 💬 Ask me about Data Structure, Java, Design Patterns, React.js, MicroServices, TDD & Computer Gaming
