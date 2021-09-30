@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working as FullStack Developer at Allstate.
-- 🌱 I’m currently enhancing skills in React JS, Spring Boot microservices in TDD methodology.
+- 🔭 FullStack Developer at Allstate.
+- 🌱 I’m currently enhancing my skills in React JS, Spring Boot microservices in TDD methodology.
 - 👯 I’m looking to collaborate on Fullstack projects
-- 🤔 Tech Using: Spring Boot | React | PCF | Gradle | SQL 
+- 🤔 Tech Stack: Spring Boot | React | PCF | Gradle | SQL 
 - 💬 Ask me about Data Structure, Java, Design Patterns, React.js, MicroServices, TDD & Computer Gaming
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/tripathi-himanshu/)
 - ⚡ Fun fact: Wanted to be a lawyer but did engineering and now loving it.
