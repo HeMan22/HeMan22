@@ -8,8 +8,8 @@ Here are some ideas to get you started: -->
 - 🔭 FullStack Developer at Mphasis (BlackRock).
 - 🌱 I’m currently enhancing my skills in Python, FastAPI,RAG, React JS, Spring Boot microservices in TDD methodology.
 - 👯 I’m looking to collaborate on Fullstack projects
-- 🤔 Tech Stack: Spring Boot | React | PCF | Gradle | SQL 
-- 💬 Ask me about Data Structure, Java, Design Patterns, React.js, MicroServices, TDD & Computer Gaming
+- 🤔 Tech Stack: Fast API | Spring Boot | React | RAG | PCF | Gradle | SQL 
+- 💬 Ask me about Data Structure, Java, Python, RAG, Design Patterns, React.js, MicroServices, TDD & Computer Gaming
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/tripathi-himanshu/)
 - ⚡ Fun fact: Wanted to be a lawyer but did engineering and now loving it.
 
